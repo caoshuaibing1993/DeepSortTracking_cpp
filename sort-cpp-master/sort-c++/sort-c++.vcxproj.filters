@@ -24,12 +24,18 @@
     <ClCompile Include="Hungarian.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="HC_Kfhg_Track.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="KalmanTracker.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Hungarian.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HC_Kfhg_Track.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
